@@ -28,3 +28,12 @@ SQL Techniques Used
 - WHERE Clause: Used to filter data based on specific conditions
 - AVERAGE: Used to calculate average values for key HR metrics
 - GROUP BY: Used to group data by department, job role, and other relevant categories
+- ![hr excel dashboard](https://github.com/user-attachments/assets/9311c968-7788-43f7-9eb9-14ca50a2d0c2)
+- Key Features
+
+- Data Visualization: Interactive dashboards and visualizations to track HR metrics
+- Data Analysis: SQL queries to extract insights from employee data
+- Workforce Trends: Analysis of attrition rates, employee demographics, job satisfaction ratings, and more
+
+This project demonstrates my ability to analyze complex HR data and create actionable insights using SQL and data visualization tools.
+
